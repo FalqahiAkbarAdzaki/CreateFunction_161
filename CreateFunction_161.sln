@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Math_1", "CreateFunction_161\Math_1.pyproj", "{B25F25C8-49CA-40B0-B97B-0AFE7730143A}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "temperature", "temperature\temperature.pyproj", "{1636B0D2-3505-4E16-A1B4-DFA238D71B8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B25F25C8-49CA-40B0-B97B-0AFE7730143A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B25F25C8-49CA-40B0-B97B-0AFE7730143A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1636B0D2-3505-4E16-A1B4-DFA238D71B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1636B0D2-3505-4E16-A1B4-DFA238D71B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
